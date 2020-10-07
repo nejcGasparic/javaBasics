@@ -6,7 +6,7 @@
 public class Program{ //ime razreda
 
     public static void main(String[]args){ //main metoda
-
+    ...
     }
 }
 ```
