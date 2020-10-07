@@ -40,6 +40,22 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     boolean flag1 = true; //če je izjava pravilna
     boolean flag2 = false; //če je izjava lažna
 ```
+* Operacije
+    * __+__ seštevanje
+    * __-__ odštevanje
+    * __*__ množenje
+    * __/__ deljenje
+    * __%__ ostanek pri deljenju
+```java
+    int a = 6;
+    int b = 3;
+    System.out.println(a+b); //9
+    System.out.println(a-b); //3
+    System.out.println(a*b); //18
+    System.out.println(a/b); //2
+    System.out.println(a/b); //0
+```
+
 * Pogojni stavek
 
 ```java
