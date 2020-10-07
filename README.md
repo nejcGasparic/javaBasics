@@ -40,3 +40,17 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     boolean flag1 = true; //če je izjava pravilna
     boolean flag2 = false; //če je izjava lažna
 ```
+* Pogojni stavek
+
+```java
+    if(a < 3){
+        //se izvede ta del kode
+    }
+    else if(a > 3){
+        //če je a večji od 3 se izvede ta del
+    }
+    else{
+        //ta del se bo izvedel, ko bo a = 3
+        //lahko zapišemo tudi else if(a == 3){}
+    }
+```
