@@ -16,7 +16,7 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     int
     long
 ```
-* Realnoštevilske
+    * Realnoštevilske
 ```java
     double
     float
