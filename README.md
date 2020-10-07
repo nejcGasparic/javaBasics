@@ -12,13 +12,13 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     
 ```java
     //celoštevilske
-    byte 
-    short
-    int
-    long
+    byte = 1;
+    short = 2;
+    int = 3;
+    long = 4;
     //realnoštevilske
-    double
-    float
+    double = 1.0;
+    float = 2.0;
     //črkovne
     char = 'A';
     String = "Hello";
