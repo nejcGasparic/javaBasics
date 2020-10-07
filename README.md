@@ -1,5 +1,6 @@
 # Osnove JAVE
 
++PRINT metode
 ```java
 System.out.print("Hello!"); // ne gre v nov odstavek
 
