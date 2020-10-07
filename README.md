@@ -10,6 +10,21 @@ public class Program{ //ime razreda
     }
 }
 ```
+* Komentarji
+    * Vrstični __//__
+    ```java
+    //to je komentar
+    ```
+    * Večvrstični __/* */__
+    ```java
+    /*
+    public class Program{
+        public static void main(String[]args){
+            System.out.println("Hello World!");
+        }
+    }
+    */
+    ```
 
 * PRINT metode
 ```java
