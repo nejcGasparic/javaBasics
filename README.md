@@ -53,7 +53,7 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     System.out.println(a-b); //3
     System.out.println(a*b); //18
     System.out.println(a/b); //2
-    System.out.println(a/b); //0
+    System.out.println(a%b); //0
 ```
 
 * Pogojni stavek
