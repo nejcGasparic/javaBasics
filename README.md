@@ -9,15 +9,14 @@ System.out.println("Hello!"); //gre v nov odstavek
 System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrstico
 ```
 * Spremenljivke
-    * Celoštevilske 
+    
 ```java
+    //celoštevilske
     byte 
     short
     int
     long
-```
-    * Realnoštevilske
-```java
+    //realnoštevilske
     double
     float
 ```
