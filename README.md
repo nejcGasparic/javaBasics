@@ -62,3 +62,31 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     * __>__ večji
     * __!=__ različen od
 
+* Logični operatorji
+
+    * __&&__ logični in
+    * __||__ logični ali
+    * __!__ logična negacija
+
+```java
+//primeri
+boolean a = true;
+boolean b = false;
+
+if(a && b){
+    //ta del kode se ne prevede
+    //saj je spremenljivka b false
+}
+else if(a || b){
+    //ta del se prevede
+    //saj je vsaj ena izmed spremenljivk true
+}
+else if(a){
+    //se izvede
+}
+else if(b){
+    //se ne izvede
+    //saj b ni true
+}
+```
+
