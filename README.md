@@ -23,20 +23,20 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     
 ```java
     //celoštevilske
-    byte = 1;
-    short = 2;
-    int = 3;
-    long = 4;
+    byte a = 1;
+    short b = 2;
+    int c = 3;
+    long d = 4;
 
     //realnoštevilske
-    double = 1.0;
-    float = 2.0;
+    double e = 1.0;
+    float f = 2.0;
 
     //črkovne
-    char = 'A';
-    String = "Hello";
+    char crka = 'A';
+    String beseda = "Hello";
 
     //izjavne
-    boolean = true; //če je izjava pravilna
-    boolean = false; //če je izjava lažna
+    boolean flag1 = true; //če je izjava pravilna
+    boolean flag2 = false; //če je izjava lažna
 ```
