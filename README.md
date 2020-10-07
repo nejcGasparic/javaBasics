@@ -1,5 +1,16 @@
 # Osnove JAVE
 
+* Ogrodje programa v Javi
+
+```java
+public class Program{ //ime razreda
+
+    public static void main(String[]args){ //main metoda
+
+    }
+}
+```
+
 * PRINT metode
 ```java
 System.out.print("Hello!"); // ne gre v nov odstavek
