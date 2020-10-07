@@ -16,12 +16,16 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     short = 2;
     int = 3;
     long = 4;
+
     //realnoštevilske
     double = 1.0;
     float = 2.0;
+
     //črkovne
     char = 'A';
     String = "Hello";
+
     //izjavne
-    boolean = true || false;
+    boolean = true; //če je izjava pravilna
+    boolean = false; //če je izjava lažna
 ```
