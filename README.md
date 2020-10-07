@@ -99,6 +99,7 @@ else if(a || b){
 }
 else if(a){
     //se izvede
+    //saj je a true
 }
 else if(b){
     //se ne izvede
