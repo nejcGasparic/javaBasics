@@ -54,3 +54,11 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
         //lahko zapišemo tudi else if(a == 3){}
     }
 ```
+* Primerjalni operatorji
+    * __==__ enak kot
+    * __<=__ manjši ali enak
+    * __<__ manjši
+    * __>=__ večji ali enak
+    * __>__ večji
+    * __!=__ različen od
+
