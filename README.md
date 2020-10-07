@@ -90,11 +90,11 @@ boolean a = true;
 boolean b = false;
 
 if(a && b){
-    //ta del kode se ne prevede
+    //stavki znotraj tega bloka se ne izvedejo
     //saj je spremenljivka b false
 }
 else if(a || b){
-    //ta del se prevede
+    //stavki znotraj tega bloka se izvedejo
     //saj je vsaj ena izmed spremenljivk true
 }
 else if(a){
