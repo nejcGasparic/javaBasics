@@ -19,4 +19,9 @@ System.out.printf("Hello!\n"); // \n, s tem določilom bomo skočili v novo vrst
     //realnoštevilske
     double
     float
+    //črkovne
+    char = 'A';
+    String = "Hello";
+    //izjavne
+    boolean = true || false;
 ```
